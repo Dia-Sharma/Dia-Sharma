@@ -1,11 +1,11 @@
-## Rajnish Mani Tiwari
+## Dia Sharma
 
-### Technology entrepreneur & Investor
+### Product Manager
   <br/>
 
 💎 &nbsp; **Currently, I spend most of my time across three things:**
-- Building **Eqlear** - AI education that adapts to students.
-- Investing through **Nynexa** - A venture studio for underdogs.
+- Building **Products** - I love building AI products, agents and more.
+- Learning through **Agentic Signal Catching** - I built a signal catcher to find signals from noise and keep me updated on latest products and AI.
 - Growing impact via **Nynexa Foundation** - Shared R&D, Executive Education.
       <br/>
           <br/>
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rajnishmanitiwari/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rajnishmanitiwari">
+<a href="https://github.com/Dia-Sharma/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Dia-Sharma">
 </a>
-<a href="https://github.com/rajnishmanitiwari?tab=followers"><img src="https://img.shields.io/github/followers/rajnishmanitiwari?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Dia-Sharma?tab=followers"><img src="https://img.shields.io/github/followers/Dia-Sharma?label=Followers&style=social" alt="GitHub Badge"></a>
