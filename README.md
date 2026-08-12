@@ -6,7 +6,7 @@
 💎 &nbsp; **Currently, I spend most of my time across three things:**
 - Building **Products** - I love building AI products, agents and more.
 - Learning through **Agentic Signal Catching** - I built a signal catcher to find signals from noise and keep me updated on latest products and AI.
-- Growing impact via **Nynexa Foundation** - Shared R&D, Executive Education.
+- Interning at **Nynexa** - as a product manager
       <br/>
  
   <br/>
